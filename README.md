@@ -12,5 +12,5 @@ By using both groupby and pivot_table functions to see if we get the same result
 - The Week of **2021-07-11** had the Most Women's Athletic Footwear Sales
 
 # Summary
-We have learned on how to rename columns, sorting them and usage of multiple pandas functions.
+We have learned on how to rename columns, sorting them and usage of multiple pandas functions and which retailer sold most women's items
 
